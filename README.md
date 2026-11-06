@@ -97,7 +97,7 @@ Konstruktion und Entwicklung im Bereich passiver Sicherheitssysteme für Fahrzeu
 
 ## Austausch & Kontakt
 
-Ich interessiere mich für den Austausch zu **Python-Entwicklung, Softwaretest, Testautomatisierung und Automotive-Messtechnik**.
+Ich interessiere mich für den Austausch zu **Python-Entwicklung, Softwaretest, Testautomatisierung und Messtechnik**.
 
 [Auf GitHub verbinden](https://github.com/ottopower2) · [Alle öffentlichen Repositories](https://github.com/ottopower2?tab=repositories)
 
