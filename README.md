@@ -15,7 +15,7 @@
 
 ## 🧠 Über mich
 
-<!-- <img align="right" src="https://raw.githubusercontent.com/ottopower2/ottopower2/main/assets/hicham-amouri.png" width="96" alt="Porträt von Hicham Amouri"> -->
+ <img align="right" src="https://raw.githubusercontent.com/ottopower2/ottopower2/main/assets/hicham-amouri.png" width="96" alt="Porträt von Hicham Amouri">
 
 **Vom Messsignal zur Software.**
 
