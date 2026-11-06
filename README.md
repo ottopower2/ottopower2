@@ -1,31 +1,92 @@
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/ottopower2/ottopower2/main/assets/profile-dashboard.svg" width="100%" alt="Hicham Amouri · Python · Testautomatisierung · EMV & HF Expert">
 
-<p>
-  <a href="#ausgewählte-projekte">Projekte</a> &nbsp; / &nbsp;
-  <a href="#technologien">Technologien</a> &nbsp; / &nbsp;
-  <a href="#hintergrund">Hintergrund</a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=EMV-Ingenieur+%7C+Python+Engineer;Messautomatisierung+%26+Testverifikation;Python+%7C+FastAPI+%7C+React+%7C+SQL;Von+Hochvolt-Pr%C3%BCfung+zu+Software-L%C3%B6sungen" alt="Typing SVG" />
+
+<br>
+
+[![GitHub followers](https://img.shields.io/github/followers/ottopower2?style=for-the-badge&color=111111&labelColor=000000)](https://github.com/ottopower2)
+[![Profile Views](https://komarev.com/ghpvc/?username=ottopower2&style=for-the-badge&color=blueviolet)](https://github.com/ottopower2)
+
+</div>
+
+---
+
+## 🧠 Über mich
 
 <img align="right" src="https://raw.githubusercontent.com/ottopower2/ottopower2/main/assets/hicham-amouri.png" width="96" alt="Porträt von Hicham Amouri">
 
-### Vom Messsignal zur Software.
+**Vom Messsignal zur Software.**
 
 Ich entwickle Python-Lösungen für **Messautomatisierung, Test und Verifikation**. Meine Erfahrung aus der Automobilindustrie verbinde ich mit APIs, Datenanalyse und webbasierten Anwendungen.
 
 <br clear="right">
 
-## Technologien
+---
 
-<img src="https://raw.githubusercontent.com/ottopower2/ottopower2/main/assets/tech-stack.svg" width="100%" alt="Python, FastAPI, React, SQL, Git, PyVISA, CANoe, INCA, ELEKTRA">
+## 🎯 Aktueller Fokus
+
+Seit 2021 arbeite ich als **EMV-Ingenieur bei CSA Group im BMW-Entwicklungsumfeld**, mit Schwerpunkt auf:
+
+- ⚡ **EMV-Qualifikation von Hochvoltkomponenten**
+- 🤖 **Python-basierte Messautomatisierung**
+- 📈 **Pulsverifikation & Datenanalyse**
+- 🌐 **Webbasierte Mess- und Auswerteplattformen (FastAPI/React/SQL)**
+- 📝 **Technische Dokumentation & Berichtserstellung**
+
+---
+
+## 🛠️ Tech-Stack
+
+### Sprachen & Kernengineering
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=yellow)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=336791)
+
+### Frontend & Backend
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+
+### Mess- & Prüftechnik
+![PyVISA](https://img.shields.io/badge/PyVISA-111111?style=for-the-badge)
+![CANoe](https://img.shields.io/badge/CANoe-111111?style=for-the-badge)
+![INCA](https://img.shields.io/badge/INCA-111111?style=for-the-badge)
+![ELEKTRA](https://img.shields.io/badge/ELEKTRA-111111?style=for-the-badge)
 
 <details>
 <summary>Weitere Engineering-Werkzeuge</summary>
+<br>
 
-MATLAB · LTspice · ANSYS · CATIA V5 · Oszilloskope · Signalverarbeitung
+![MATLAB](https://img.shields.io/badge/MATLAB-111111?style=for-the-badge)
+![LTspice](https://img.shields.io/badge/LTspice-111111?style=for-the-badge)
+![ANSYS](https://img.shields.io/badge/ANSYS-111111?style=for-the-badge)
+![CATIA V5](https://img.shields.io/badge/CATIA_V5-111111?style=for-the-badge)
 
 </details>
 
-## Ausgewählte Projekte
+---
+
+## 🌍 Sprachen
+
+- 🇩🇪 **Deutsch** — sehr gut
+- 🇬🇧 **Englisch** — C1
+- 🇫🇷 **Französisch** — verhandlungssicher
+- 🇸🇦 **Arabisch** — Muttersprache
+
+---
+
+## ✨ Arbeitsweise
+
+- 🔬 Präzise und messdatengetrieben
+- 🧩 Denke von Hardware zu Software
+- 📊 Strukturierte Auswertung statt Bauchgefühl
+- 🚗 10+ Jahre Automotive-/EMV-Erfahrung
+- 💡 Interesse an KI, Elektromobilität und Elektronik
+
+---
+
+## 🚀 Ausgewählte Projekte
 
 <a href="https://github.com/ottopower2/esd_measurement_project_react_sql"><img src="https://raw.githubusercontent.com/ottopower2/ottopower2/main/assets/project-platform.svg" width="100%" alt="01 · ESD-Messplattform – Repository öffnen"></a>
 
@@ -41,9 +102,26 @@ Python-Skripte zur Unterstützung **automatisierter Verifikationsabläufe** und 
 
 [Alle Repositories ansehen ↗](https://github.com/ottopower2?tab=repositories)
 
-## Hintergrund
+---
 
-**Seit 2021 · EMV-Ingenieur bei CSA Group im BMW-Entwicklungsumfeld**  
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ottopower2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottopower2&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ottopower2&theme=tokyonight&hide_border=true&background=00000000" />
+</div>
+
+---
+
+## 🧩 Werdegang
+
+**Seit 2021 · EMV-Ingenieur bei CSA Group im BMW-Entwicklungsumfeld**
 EMV-Qualifikation von Hochvoltkomponenten, Python-basierte Messautomatisierung, Pulsverifikation und technische Dokumentation.
 
 <details>
@@ -59,14 +137,11 @@ EMV-Qualifikation von Hochvoltkomponenten, Python-basierte Messautomatisierung, 
 
 </details>
 
-<details>
-<summary><strong>Sprachen & Interessen</strong></summary>
+---
 
-Deutsch – sehr gut · Englisch – C1 · Französisch – verhandlungssicher · Arabisch – Muttersprache.
+## 🤝 Let's Connect
 
-Künstliche Intelligenz · Softwareentwicklung · Elektromobilität · Elektronik.
-
-</details>
+- 🧑‍💻 GitHub: [ottopower2](https://github.com/ottopower2)
 
 ---
 
