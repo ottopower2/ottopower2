@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hicham Amouri</h1>
-<p align="center"><strong>Python · Testautomatisierung · Automotive Engineering</strong></p>
+<p align="center"><strong>Python · Testautomatisierung · EMV_HF Expert</strong></p>
 <p align="center">München, Deutschland · Master of Engineering, Energietechnik</p>
 <p align="center">
   <a href="https://github.com/ottopower2">Kontakt</a> ·
